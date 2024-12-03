@@ -1,6 +1,5 @@
 # 💫 About Me:
-Saya adalah mahasiswa Teknik Komputer 🎓 di Universitas Diponegoro yang memiliki minat besar dalam pengembangan web dan teknologi 💻. Saya menguasai beberapa bahasa pemrograman dan framework seperti PHP dengan Laravel 🚀, Python dengan Flask 🐍, serta JavaScript dan TypeScript dengan React ⚛️. Saya juga familiar dengan sistem manajemen basis data PostgreSQL, MySQL 🗄️ dan version control menggunakan Git 📝.<br>Saat ini saya fokus mengembangkan kemampuan dalam full-stack web development 🌐 sambil tetap mempelajari dasar-dasar teknik komputer di perkuliahan. Saya senang mengerjakan berbagai proyek web development dan selalu antusias untuk belajar teknologi-teknologi baru ✨.
-
+Saya adalah mahasiswa Teknik Komputer 🎓 di Universitas Diponegoro yang memiliki minat besar dalam pengembangan web dan teknologi 💻. Saya menguasai beberapa bahasa pemrograman dan framework seperti PHP dengan Laravel 🚀, Python dengan Flask 🐍, serta JavaScript dan TypeScript dengan React ⚛️. Saya juga familiar dengan sistem manajemen basis data PostgreSQL, MySQL 🗄️ dan version control menggunakan Git 📝.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fdlyshdq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadlishidqi/) 
